@@ -1,4 +1,4 @@
-package com.mobileapps.mydemoapp;
+package com.mobileapps.demo01;
 
 import org.junit.Test;
 
