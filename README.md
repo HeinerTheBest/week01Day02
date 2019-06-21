@@ -1,7 +1,7 @@
 # week01Day02
 Review Java Exercise
 
-Document with the investigation it's in 
+Document with the investigation is in 
 https://github.com/heinerthebestMobileApps/week01Day02/blob/master/Week01Day02%20Research.pdf
 
 1. Problem 01 can be found in 
